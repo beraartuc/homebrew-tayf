@@ -1,8 +1,8 @@
 class Tayf < Formula
   desc "PTY-based, terminal-agnostic, regex-driven output colorizer"
   homepage "https://github.com/beraartuc/tayf"
-  url "https://static.crates.io/crates/tayf/tayf-0.12.2.crate"
-  sha256 "4b6980d59d8fcc3e553b9a8265c0e30c36d57edd9ea7b7ab03a4f39511ae6773"
+  url "https://static.crates.io/crates/tayf/tayf-0.12.3.crate"
+  sha256 "613ce08fc91d104fed9d24d5c3c74a7903376be983410d3fdca4f8cc038375a7"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on "rust" => :build
